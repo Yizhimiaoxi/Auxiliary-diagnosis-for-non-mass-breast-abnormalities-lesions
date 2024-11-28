@@ -13,4 +13,6 @@ python PNG_to_NRRD_Converter.py --images "/path/to/png/folder" --output_nrrd "/p
 ```
 
 NRRD files are compressed to facilitate reading and saving, as they take up a lot of memory.
-
+```
+python NRRD_compression.py --NRRD "/path/to/input.nrrd" --output "/path/to/output.seg.nrrd"
+```
