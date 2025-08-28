@@ -22,3 +22,4 @@ _·The model was trained using multimodal data inputs (EEI, LEI, ADC, mask) and 
 
 _·In terms of NME lesion segmentation, a two-stage approach was used with significant results (DSC=0.9879, IoU=0.9760, Precision=0.9842)._
 
+## _Acknowledgments_
