@@ -23,3 +23,8 @@ _·The model was trained using multimodal data inputs (EEI, LEI, ADC, mask) and 
 _·In terms of NME lesion segmentation, a two-stage approach was used with significant results (DSC=0.9879, IoU=0.9760, Precision=0.9842)._
 
 ## _Acknowledgments_
+
+_**Author contributions:** Guarantors of integrity of entire study, W.CY., M.L., W.BQ., H.P.; study concepts / study design or data acquisition or data analysis/interpretation, all authors; manuscript drafting, H.JW., S.M.; manuscript revision for important intellectual content, W.CY., H.JW., S.M., W.BQ, H.P, L.C.; approval of final version of submitted manuscript all authors; agrees to ensure any questions related to the work are appropriately resolved, all authors; literature research, W.CY., H.JW., W.BQ, S.M., W.XY.; experimental studies, H.JW., W.BQ., L.C.; statistical analysis, H.JW., W.BQ., S.M., W.XY.; and manuscript editing W.CY., H.JW., S.M., W.BQ, H.P._
+
+_**Shandong Inspur Intelligent Medical Technology Co., LTD. holds full intellectual property rights.**
+This product complies with relevant regulations and may be used for research , education , clinical decision support and commercial purposes. It is not intended to replace professional medical judgment._
