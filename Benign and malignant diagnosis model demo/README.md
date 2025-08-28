@@ -17,7 +17,7 @@ pip install nibabel pynrrd scipy tqdm numpy
 ## _Example project structure_
 
 ```
-Demo-project/
+Benign and malignant diagnosis model demo/
 │
 ├── model/
 │   └── model.pth                 # Trained model weights
